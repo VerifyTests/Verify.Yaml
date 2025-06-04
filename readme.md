@@ -62,12 +62,12 @@ Results in:
 [
   {
     node: {
+      original: http://www.foo.com/,
+      short: foo,
       error: {
         code: 0,
         msg: No action taken
-      },
-      original: http://www.foo.com/,
-      short: foo
+      }
     }
   }
 ]
