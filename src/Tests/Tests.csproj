@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>testing</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MarkdownSnippets.MsBuild" PrivateAssets="all" />
+    <PackageReference Include="Verify.DiffPlex" />
+    <PackageReference Include="Verify" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" />
+    <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
+    <PackageReference Include="NUnit" />
+    <PackageReference Include="Verify.NUnit" />
+    <PackageReference Include="NUnit3TestAdapter" />
+    <ProjectReference Include="..\Verify.Yaml\Verify.Yaml.csproj" />
+  </ItemGroup>
+</Project>

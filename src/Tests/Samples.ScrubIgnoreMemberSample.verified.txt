@@ -1,0 +1,11 @@
+﻿[
+  {
+    node: {
+      error: {
+        code: 0
+      },
+      original: http://www.foo.com/,
+      short: {Scrubbed}
+    }
+  }
+]

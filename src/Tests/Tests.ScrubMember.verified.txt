@@ -1,0 +1,9 @@
+﻿[
+  {
+    node: {
+      error: {Scrubbed},
+      original: http://www.foo.com/,
+      short: foo
+    }
+  }
+]
