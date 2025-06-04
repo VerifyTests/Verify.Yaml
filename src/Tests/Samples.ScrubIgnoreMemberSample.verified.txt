@@ -1,11 +1,11 @@
 ﻿[
   {
     node: {
-      original: http://www.foo.com/,
-      short: Scrubbed,
       error: {
         code: 0
-      }
+      },
+      short: Scrubbed,
+      original: http://www.foo.com/
     }
   }
 ]

@@ -1,9 +1,9 @@
 ﻿{
   node: {
-    original: http://www.foo.com/,
     error: {
-      code: 0,
-      msg: No action taken
-    }
+      msg: No action taken,
+      code: 0
+    },
+    original: http://www.foo.com/
   }
 }

@@ -1,12 +1,12 @@
 ﻿[
   {
     node: {
-      date: Date_1,
-      short: foo,
       error: {
-        guid: Guid_1,
-        msg: No action taken
-      }
+        msg: No action taken,
+        guid: Guid_1
+      },
+      short: foo,
+      date: Date_1
     }
   }
 ]

@@ -5,7 +5,7 @@
     {
         writer.WriteStartObject();
 
-        foreach (var (key, value) in node)
+        foreach (var (key, value) in node.Reverse())
         {
             var name = key.ToString();
             writer.WriteMember(node, value, name);

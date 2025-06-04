@@ -62,12 +62,12 @@ Results in:
 [
   {
     node: {
-      original: http://www.foo.com/,
-      short: foo,
       error: {
-        code: 0,
-        msg: No action taken
-      }
+        msg: No action taken,
+        code: 0
+      },
+      short: foo,
+      original: http://www.foo.com/
     }
   }
 ]
@@ -118,8 +118,8 @@ Results in:
       error: {
         code: 0
       },
-      original: http://www.foo.com/,
-      short: {Scrubbed}
+      short: Scrubbed,
+      original: http://www.foo.com/
     }
   }
 ]
@@ -165,12 +165,12 @@ Results in:
 [
   {
     node: {
-      date: Date_1,
       error: {
-        guid: Guid_1,
-        msg: No action taken
+        msg: No action taken,
+        guid: Guid_1
       },
-      short: foo
+      short: foo,
+      date: Date_1
     }
   }
 ]
@@ -218,12 +218,12 @@ Results in:
 [
   {
     node: {
-      date: Date_1,
       error: {
-        guid: Guid_1,
-        msg: No action taken Guid_1
+        msg: No action taken Guid_1,
+        guid: Guid_1
       },
-      short: foo Date_1
+      short: foo Date_1,
+      date: Date_1
     }
   }
 ]
