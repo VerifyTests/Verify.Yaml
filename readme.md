@@ -1,7 +1,7 @@
 # <img src="/src/icon.png" height="30px"> Verify.Yaml
 
 [![Discussions](https://img.shields.io/badge/Verify-Discussions-yellow?svg=true&label=)](https://github.com/orgs/VerifyTests/discussions)
-[![Build status](https://ci.appveyor.com/api/projects/status/ej794va900x9257f?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-Yaml)
+[![Build status](https://ci.appveyor.com/api/projects/status/2w0tvfpv56txfale?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-Yaml)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.Yaml.svg)](https://www.nuget.org/packages/Verify.Yaml/)
 
 Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [YamlDotNet](https://github.com/aaubry/YamlDotNet) types.
@@ -239,4 +239,4 @@ Inline date and Guids scrubbing can also be defined globally:
 
 ## Icon
 
-[Pattern](https://thenounproject.com/term/pattern/1070611/) designed by [Trevor Dsouza](https://thenounproject.com/TDsouza/) from [The Noun Project](https://thenounproject.com/).
+[Pattern](https://thenounproject.com/icon/yaml-file-extension-3015661/) designed by [Grafix Point](https://thenounproject.com/creator/virtualdesign/) from [The Noun Project](https://thenounproject.com/).
