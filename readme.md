@@ -115,11 +115,11 @@ Results in:
 [
   {
     node: {
+      original: http://www.foo.com/,
+      short: Scrubbed,
       error: {
         code: 0
-      },
-      original: http://www.foo.com/,
-      short: {Scrubbed}
+      }
     }
   }
 ]
@@ -166,11 +166,11 @@ Results in:
   {
     node: {
       date: Date_1,
+      short: foo,
       error: {
         guid: Guid_1,
         msg: No action taken
-      },
-      short: foo
+      }
     }
   }
 ]
@@ -219,11 +219,11 @@ Results in:
   {
     node: {
       date: Date_1,
+      short: foo Date_1,
       error: {
         guid: Guid_1,
         msg: No action taken Guid_1
-      },
-      short: foo Date_1
+      }
     }
   }
 ]
