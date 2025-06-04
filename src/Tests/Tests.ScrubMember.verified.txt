@@ -1,7 +1,7 @@
 ﻿{
   node: {
     original: http://www.foo.com/,
-    short: foo,
+    short: Scrubbed,
     error: {
       code: 0,
       msg: No action taken
