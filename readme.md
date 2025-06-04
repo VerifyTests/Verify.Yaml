@@ -51,7 +51,7 @@ public Task YamlDocumentSample()
     return Verify(yamlStream);
 }
 ```
-<sup><a href='/src/Tests/Samples.cs#L6-L27' title='Snippet source file'>snippet source</a> | <a href='#snippet-YamlDocumentSample' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Samples.cs#L4-L25' title='Snippet source file'>snippet source</a> | <a href='#snippet-YamlDocumentSample' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 Results in:
@@ -104,7 +104,7 @@ public Task ScrubIgnoreMemberSample()
         .IgnoreMember("msg");
 }
 ```
-<sup><a href='/src/Tests/Samples.cs#L28-L51' title='Snippet source file'>snippet source</a> | <a href='#snippet-ScrubIgnoreMember' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Samples.cs#L27-L50' title='Snippet source file'>snippet source</a> | <a href='#snippet-ScrubIgnoreMember' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 Results in:
@@ -207,7 +207,7 @@ public Task InlineGuidsAndDatesSample()
         .ScrubInlineGuids();
 }
 ```
-<sup><a href='/src/Tests/Samples.cs#L74-L98' title='Snippet source file'>snippet source</a> | <a href='#snippet-InlineGuidsAndDates' title='Start of snippet'>anchor</a></sup>
+<sup><a href='/src/Tests/Samples.cs#L75-L99' title='Snippet source file'>snippet source</a> | <a href='#snippet-InlineGuidsAndDates' title='Start of snippet'>anchor</a></sup>
 <!-- endSnippet -->
 
 Results in:
