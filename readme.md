@@ -9,9 +9,9 @@ Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [Yam
 **See [Milestones](../../milestones?state=closed) for release notes.**
 
 
-## NuGet package
+## NuGet
 
-https://nuget.org/packages/Verify.Yaml/
+ * https://nuget.org/packages/Verify.Yaml
 
 
 ## Usage
