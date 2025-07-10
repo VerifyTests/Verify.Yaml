@@ -1,3 +1,1 @@
-﻿// Global using directives
-
-global using YamlDotNet.RepresentationModel;
+﻿global using YamlDotNet.RepresentationModel;
