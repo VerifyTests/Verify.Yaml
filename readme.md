@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/2w0tvfpv56txfale?svg=true)](https://ci.appveyor.com/project/SimonCropp/Verify-Yaml)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.Yaml.svg)](https://www.nuget.org/packages/Verify.Yaml/)
 
-Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [YamlDotNet](https://github.com/aaubry/YamlDotNet) types.
+Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [YamlDotNet](https://github.com/aaubry/YamlDotNet) types.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
 
 **See [Milestones](../../milestones?state=closed) for release notes.**
 
@@ -14,9 +14,9 @@ Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [Yam
 
 ### Entity Framework Extensions<!-- include: zzz. path: /docs/zzz.include.md -->
 
-[Entity Framework Extensions](https://entityframework-extensions.net/) is a major sponsor and is proud to contribute to the development this project.
+[Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Yaml) is a major sponsor and is proud to contribute to the development this project.
 
-[![Entity Framework Extensions](docs/zzz.png)](https://entityframework-extensions.net)<!-- endInclude -->
+[![Entity Framework Extensions](https://raw.githubusercontent.com/VerifyTests/Verify.Yaml/refs/heads/main/docs/zzz.png)](https://entityframework-extensions.net/?utm_source=simoncropp&utm_medium=Verify.Yaml)<!-- endInclude -->
 
 
 ## NuGet

@@ -1,0 +1,1 @@
+Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [YamlDotNet](https://github.com/aaubry/YamlDotNet) types.
