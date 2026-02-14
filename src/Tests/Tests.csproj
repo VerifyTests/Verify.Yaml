@@ -12,6 +12,10 @@
     <PackageReference Include="ProjectDefaults" PrivateAssets="all" />
     <PackageReference Include="NUnit" />
     <PackageReference Include="Verify.NUnit" />
+    <PackageReference Include="Argon" />
+    <PackageReference Include="DiffEngine" />
+    <PackageReference Include="EmptyFiles" />
+    <PackageReference Include="SimpleInfoName" />
     <PackageReference Include="NUnit3TestAdapter" />
     <ProjectReference Include="..\Verify.Yaml\Verify.Yaml.csproj" />
   </ItemGroup>
