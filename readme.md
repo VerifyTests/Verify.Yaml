@@ -1,7 +1,7 @@
 # <img src="/src/icon.png" height="30px"> Verify.Yaml
 
 [![Discussions](https://img.shields.io/badge/Verify-Discussions-yellow?svg=true&label=)](https://github.com/orgs/VerifyTests/discussions)
-[![Build status](https://img.shields.io/appveyor/build/SimonCropp/Verify-Yaml)](https://ci.appveyor.com/project/SimonCropp/Verify-Yaml)
+[![Build status](https://github.com/VerifyTests/Verify.Yaml/actions/workflows/build.yml/badge.svg)](https://github.com/VerifyTests/Verify.Yaml/actions/workflows/build.yml)
 [![NuGet Status](https://img.shields.io/nuget/v/Verify.Yaml.svg)](https://www.nuget.org/packages/Verify.Yaml/)
 
 Adds [Verify](https://github.com/VerifyTests/Verify) support for converting [YamlDotNet](https://github.com/aaubry/YamlDotNet) types.<!-- singleLineInclude: intro. path: /docs/intro.include.md -->
