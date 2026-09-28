@@ -1,4 +1,5 @@
-[TestFixture]
+namespace VerifyYamlTests;
+
 public class Tests
 {
     string yaml =
